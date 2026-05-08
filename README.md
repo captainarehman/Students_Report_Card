@@ -38,13 +38,13 @@ cd Students_Report_Card
 
 **Windows:**
 ```bash
-gcc Students_Report_Card.c -o output.exe
+gcc main.c -o output.exe
 output.exe
 ```
 
 **Linux / Mac:**
 ```bash
-gcc Students_Report_Card.c -o output
+gcc main.c -o output
 ./output
 ```
 <hr>
