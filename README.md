@@ -1,10 +1,10 @@
 # Generic Student Report Card Generator
 
-Hey Everyone! axr here, so.. I've made a simple but very organized and perfomative project, as it suggests in the title it's a *Very Simple* Student Marks Calculator. To be honest, I started to forgot some basics of C hehe 😅 so I made this project, everything has been listed down below sure check that :D
+A simple C program that accepts student marks and prints a well-formatted report card summary.
 
 <hr style="border: 1px;">
 
-## What's in the File?
+## Features
   * Well-Organized and commented code
   * Much suitable for beginners
   * Everything is executed within `main()`
@@ -15,16 +15,12 @@ Hey Everyone! axr here, so.. I've made a simple but very organized and perfomati
   2. **Matrix Structure**: Uses 2D arrays to store entries more efficiently and organized
   3. **Nested-inner loops** (Everything executes within a single block of code)
   4. **Values Invalid Verification**
-  5. Doesn't have external functions (As mentioned earlier)
   6. Great to learn basic syntaxes and codes within a single file since it has most of the syntaxes.
-  7. **FINALLY! WE GOT TAB SPACING YIPPIEE**
 
-###   Con's ❎
-  + As mentioned doesn't have external function (Why a Con? Because everything runs within `main()`)
-  + Doesn't have formatting for the `"Enter Marks"` **Section**
+### Limitations ❎
   + Has multi-nested-loops slight confusing for beginners even tho it's very *organized*.
-  + Has extensive array mapping which is idk.. AI told me this :3
-  + Manual Formatting : Has manual formatting struct i.e if a word has more than **12 Characters** you would have to manually adjust the **Report Card Summary** Section of the code.
+  + Has **manual formatting** struct 
+  i.e if a word has more than **12 Characters** you would have to manually adjust the **Report Card Summary** Formatting
 <hr>
 
 ## How to download the code
